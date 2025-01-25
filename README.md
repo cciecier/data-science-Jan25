@@ -2,7 +2,7 @@
 
 **2024-11-19**  **-** **2024-11-20** 
 
-Github Pages based template for hackathons
+Github Pages based template for hackathon(s)
 
 
 ## Instructors and Mentors
