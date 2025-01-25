@@ -1,4 +1,4 @@
-# Hackathon Template Github
+# WIS 2025 Datathon
 
 **2024-11-19**  **-** **2024-11-20** 
 
